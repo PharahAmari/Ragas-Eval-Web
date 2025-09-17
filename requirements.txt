@@ -1,0 +1,35 @@
+# RAG评估系统依赖包
+
+# 核心Web框架
+streamlit
+
+# 数据处理
+pandas
+numpy
+
+# 文件处理
+openpyxl
+xlsxwriter
+
+# RAG评估框架
+ragas
+datasets
+
+# LangChain相关
+langchain
+langchain-openai
+langchain-community
+
+# 机器学习与嵌入模型
+sentence-transformers
+transformers
+torch
+
+# HTML处理
+html2text
+
+# HTTP请求
+requests
+
+# 其他工具
+python-dotenv
